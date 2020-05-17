@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Why I Chose Software Engineering"
+date:       2020-05-17 02:05:46 +0000
+permalink:  why_i_chose_software_engineering
+---
+
+
+I've gone down several different career paths in my life, some of which have been academic, and some of which have not. In my undergraduate in college I studied History and Japanese Literature, and then returned a few years later to get my licensure in Secondary Education for Social Studies. All along, I worked in the service industry for a cumulative 16 years. After completing my education licensure I realized I lived in one of the lowest paid states for education in the developed world, and htat my 16 year career path into bartending was both lower stress and more lucrative, so I decided to stick with safe bet rather than risking a shift into education. When COVID hit, the entire landscape and future landscape of my industry in bartending became temporarily nonexistant, but also unpredictable in its future, so I decided to look into other options for more security.
+
+I had a few things that I valued when considering a shift in career paths. First, it had to be something that I could enjoy doing for the rest of my life. I'm fortunate to have both a creative and a logical brain, and there is no field more in demand for both than in software engineering. I had dabbled with it throughout different parts of my life (including programing a simple Geocities family homepage in the 90s in basic HTML, as well as "hacking" my Myspace page in High School. I knew that at the very least it was something that I didn't not enjoy. It was also important for me to pursue something that presented me with opportunities in my future including relocation, financial security, upward mobility, and the possiblity of retiring one day (which isn't really an option for career bartenders). On top of all of this, I wanted to pursue something that could potentially allow me to tap into my prior knowledge in the field of education. Ideally I would like to use my coding education to work in software or apps for education/ students/ educators. There were several times throughout the process of my earlier education where I saw gaps that I felt could easily be filled by the right kind of software.
+
+Taking into consideration all of my needs for a permanent shift in careers, software engineering seemed like both the most practical and the most achievable path toward those end goals. While I realize my goals and the direction I want to take this new knowledge may change along the way, I believe that the decision to pursue this path has been a good choice and that it will help me to actualize a professional future that suits me and my goals.
