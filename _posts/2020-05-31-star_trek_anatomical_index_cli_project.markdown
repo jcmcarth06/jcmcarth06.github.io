@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Star Trek Anatomical Index CLI Project "
-date:       2020-05-31 23:53:34 +0000
+date:       2020-05-31 19:53:35 -0400
 permalink:  star_trek_anatomical_index_cli_project
 ---
 
